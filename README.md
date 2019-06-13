@@ -1,2 +1,3 @@
-# first-app-demo
-Demo app
+# maven-project
+
+Simple Maven Project
